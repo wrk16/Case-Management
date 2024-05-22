@@ -32,8 +32,8 @@ const Accordion = () => {
               text="It is basically made for the Judges and the Court Administration. Moreover, a feature will soon be added to notify each person related to the particular case's information and updates."
             />
             <AccordionItem
-              header="Will AI & ML be also implemented?"
-              text="Yes, in our future updates AI Chat Bots and Ml algorithms will be trained on data about the judge's past decisions and preferences to help them."
+              header="Will a chat-bot support will be added ?"
+              text="Yes, in our future updates AI Chat Bots will be added and Ml algorithms will be trained on data about the judge's past decisions and preferences to help them."
             />
           </div>
           <div className="w-full px-4 lg:w-1/2">
