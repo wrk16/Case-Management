@@ -1,5 +1,5 @@
 # e-case_Tracker
-<div align="center" ><img src="https://github.com/wrk16/sih_hackathon/assets/96262211/f4614c90-6e59-4feb-9211-adb1072d0f23"> </div>
+<div align="center" ><img src=""> </div>
 
 
 ## 🎯Prototype:
